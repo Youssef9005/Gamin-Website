@@ -1,5 +1,7 @@
-# Gamin-Website
 
 <div align="center">
-  <a href="https://www.google.com" style="text-decoration='none'"><strong>➥ Live Demo</strong></a>
+  <h2 align="center">Gaming Responsive Website</h2>
+  <a href="https://www.google.com"><strong>➥ Live Demo</strong></a>
 </div>
+
+<h3>WebSite Screen Shoot</h3>
