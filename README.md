@@ -4,11 +4,6 @@
   <a href="https://youssef9005.github.io/Gamin-Website/"><strong>➥ Live Demo</strong></a>
 </div>
 
-<h3>WebSite Screen Shoot</h3>
-![text alt](https://raw.githubusercontent.com/Youssef9005/Gamin-Website/main/website.png)
-
-## Text
-
 <div align="center">
     <h2>Website Features</h2>
 </div>
